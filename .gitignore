@@ -3,6 +3,4 @@
 *.log
 tmp/
 
-**/blog_env
-
 notes.org
