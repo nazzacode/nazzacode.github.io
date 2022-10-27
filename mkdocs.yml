@@ -8,6 +8,7 @@ nav:
   - Home: index.md
   - About: about.md
   - Blog:
+      "Blog": blog/blog_index.md
       "The Future of Work": blog/the_future_of_work.md
 
 theme:
