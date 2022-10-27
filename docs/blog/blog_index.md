@@ -2,5 +2,5 @@
 
 Welcome to my blog! 
 
-## Recent Articles
+## Recent Posts
 - TODO

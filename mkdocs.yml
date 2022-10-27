@@ -62,6 +62,10 @@ theme:
     # - navigation.sections
     # - header.autohide
 
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
 extra_css:
   # - css/mkdocs-material-themes/gruvbox_colors.css
   - stylesheets/extra.css
