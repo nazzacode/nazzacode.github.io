@@ -1,0 +1,23 @@
+*custom_colors.css*/
+
+/*
+ * OneDark color scheme
+ */
+:root {
+}
+
+[data-md-color-scheme="slate"] {
+    /* --md-hue: 90; */
+    --md-primary-fg-color: #61AFEF;
+}
+
+.md-header {
+    /* background: linear-gradient(40deg, #FB1C49, #E41F66, #D64B5E, #A42E9A, #9F29BC, #902CCC, #5951F6, #4870F6, #3096FA, #1DB3F9); */
+    background: linear-gradient(40deg, #e66465, #9198e5);
+}
+.md-tabs {
+    /* background: linear-gradient(40deg, #FB1C49, #E41F66, #D64B5E, #A42E9A, #9F29BC, #902CCC, #5951F6, #4870F6, #3096FA, #1DB3F9); */
+    background: linear-gradient(40deg, #e66465, #9198e5);
+}
+
+/* navigation-t */

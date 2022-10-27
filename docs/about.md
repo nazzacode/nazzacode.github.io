@@ -1,23 +1,37 @@
+<!-- --- -->
+<!-- hide: -->
+<!--   - navigation -->
+<!--   - toc -->
+<!-- --- -->
+
 # About
 
-![Image title](images/about1.md){align=left}
+<!-- TODO: better photo: something techy -->
+![Me](images/me2.jpg){ align=left width=250 }
 
-Hacker/Builder
+Hi :wave:, I'm Nathan, an aspiring wizard from the UK and I write about fun things like the future of computing and the human race. 
 
-Data science
+<!-- ideas -->
+<!-- building things -->
+<!-- intelligence  -->
+<!-- the future of technology and humanity  -->
+<!-- and I like to write about the future. -->
 
-software -> hardware
+<!-- I'm an angry young man.  -->
 
-Transhumanism 
 
-Im currently interested in learning more about...
 
-Knowledge graphs
+<!-- Hacker/Builder -->
+<!-- Data science -->
+<!-- software -> hardware -->
+<!-- Transhumanism  -->
 
-Human and machince intelligence
 
-- I'm an aspiring wizard from the UK 
-- Scotland 
+<!-- Im currently interested in learning more about... -->
+
+<!-- Knowledge graphs -->
+
+<!-- Human and machine intelligence -->
+
 <!-- ## Interests -->
-- the future of computing
-- 
+<!-- - the future of computing -->
