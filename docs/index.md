@@ -1,2 +1,22 @@
+---
+hide:
+  - navigation
+  - toc
+---
+<!-- TODO: use the grids feature! -->
+
 # Home
-Welcome to my blog!
+
+### Tags
+TODO
+
+### Subscribe
+ 
+## Top Posts
+TODO
+
+## Recent Posts
+TODO
+
+
+

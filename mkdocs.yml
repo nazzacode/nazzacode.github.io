@@ -5,17 +5,18 @@ site_name: Zadok the Priest
 site_author: "Nathan @nazzacode Sharp"
 
 nav:
-  - Home: index.md
-  - About: about.md
-  - Blog:
-      "The Future of Work": blog/the_future_of_work.md
+  - "Home": index.md
+  - "About": about.md
+  - "Blog":
+      "Blog": blog/index.md
+      # "The Future of Work": blog/the_future_of_work.md
+  - "Tags": tags.md
 
 theme:
   name: material
   custom_dir: overrides
   icon:
     logo: material/safety-goggles
-
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -25,7 +26,6 @@ theme:
         name: Switch to dark mode
       primary: blue grey
       accent: light blue
-
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: default
@@ -34,10 +34,6 @@ theme:
         name: Switch to light mode
       primary: grey
       accent: grey
-
-    # primary: indigo
-    # accent: pink
-
   font: # set some nicer custom fonts! (latex/futuristic)
     text: Jura
     # text: Arvo
@@ -49,17 +45,38 @@ theme:
     # code: JetBrains Mono
     # code: Ubuntu Mono
     # code: Source Code Pro
-    #
-
   features:
     - navigation.instant
     - navigation.tracking
     - navigation.tabs
     - navigation.expand
-    - navigation.top
+    - navigation.top # 'back to top' button
+    - navigation.sections
     - toc.follow
-    # - navigation.sections
-    # - header.autohide
+
+plugins:
+  - search
+  - tags:
+      tags_file: tags.md
+
+markdown_extensions:
+  - abbr
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.snippets
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/regular/envelope
+      link: mailto:nathansharp03@gmail.com
+    - icon: fontawesome/brands/github
+      link: https://github.com/nazzacode
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/nazzasharp
 
 markdown_extensions:
   # Admonitions
@@ -80,9 +97,9 @@ markdown_extensions:
   - pymdownx.tilde
 
 extra_css:
-  # - css/mkdocs-material-themes/gruvbox_colors.css
   - stylesheets/extra.css
   - docs/css/mkdocs-material-themes/onedark_colors.css
+  # - css/mkdocs-material-themes/gruvbox_colors.css
   # - docs/css/mkdocs-material-themes/material_theme.css
 
 extra_javascript:
