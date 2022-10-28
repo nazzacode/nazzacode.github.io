@@ -11,11 +11,22 @@
 
 Hi :wave:, I'm Nathan, an aspiring wizard from the UK and I write about fun things like the future of computing. 
 
-<!-- Right now I'm working on  -->
+Follow me on Twitter, LinkedIn or Github.
+<!-- + links -->
+
+<!-- I am -->
+ <!-- perfectionist -->
+ <!-- insuferable -->
+
+<!-- Right now I'm working on -->
+
+<!-- I like to write about -->
+ <!-- street food  -->
+ <!-- design -->
+ <!-- human computer UX -->
 
 <!-- I love -->
 
-<!-- I'm Nathan and I'm SHHTINKY -->
 
 <!-- ideas -->
 <!-- building things -->
@@ -38,3 +49,8 @@ Hi :wave:, I'm Nathan, an aspiring wizard from the UK and I write about fun thin
 
 <!-- ## Interests -->
 <!-- - the future of computing -->
+
+
+<!-- It is only the attempt to write down your ideas that enables them to develop.” –Wittgenstein (pg 109, Recollections of Wittgenstein);  -->
+
+<!-- TODO: put my big 5 personality test results in -->
