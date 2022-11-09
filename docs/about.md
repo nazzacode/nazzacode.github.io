@@ -1,22 +1,35 @@
-<!-- --- -->
-<!-- hide: -->
-<!--   - navigation -->
-<!--   - toc -->
-<!-- --- -->
+<!-- NOTES
+- 
+--------->
 
 # About
 
-<!-- TODO: better photo: something techy -->
 ![Me](images/me2.jpg){ align=left width=250 }
 
-Hi :wave:, I'm Nathan, an aspiring wizard from the UK and I write about fun things like the future of computing. 
+Hi :wave:, I'm Nathan (@nazzacode), an aspiring wizard from the UK and I write about fun things like the future of computing. 
+
+## Interests 
+<!-- TODO: word cloud -->
+Brain-Computer Interfaces, 
+intelligence, 
+futurism, 
+the future of computing, 
+street food, 
+hip-hop, 
+design engineering, 
+aesthetics, 
+books, 
+information theory, 
+knowledge graphs and representations, 
+tools for thought, 
+meditation, 
+metaverse,
+and
+functional programming.
 
 Follow me on Twitter, LinkedIn or Github.
-<!-- + links -->
+<!-- TODO links -->
 
-<!-- I am -->
- <!-- perfectionist -->
- <!-- insuferable -->
 
 <!-- Right now I'm working on -->
 
@@ -41,9 +54,10 @@ Follow me on Twitter, LinkedIn or Github.
 <!-- Transhumanism  -->
 
 
-<!-- Im currently interested in learning more about... -->
+<!-- ## Im currently interested in learning more about... 
+- Knowledge graphs
+-->
 
-<!-- Knowledge graphs -->
 
 <!-- Human and machine intelligence -->
 

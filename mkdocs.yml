@@ -9,7 +9,7 @@ nav:
   - "About": about.md
   - "Blog":
       "Blog": blog/index.md
-      # "The Future of Work": blog/the_future_of_work.md
+      "Does XR need a new keyboard?": blog/does_xr_need_a_new_keyboard.md
   - "Tags": tags.md
 
 theme:
@@ -36,15 +36,12 @@ theme:
       accent: grey
   font: # set some nicer custom fonts! (latex/futuristic)
     text: Jura
-    # text: Arvo
-    # text: Ubuntu
-    # text: Varela Round
-    # text: Sen
     code: DM Mono
-    # code: Roboto Mono
-    # code: JetBrains Mono
-    # code: Ubuntu Mono
-    # code: Source Code Pro
+    # To try
+    # IBM plex mono
+    # Josefin Slab regular
+    # Computer Modern
+    #
   features:
     - navigation.instant
     - navigation.tracking
@@ -60,13 +57,33 @@ plugins:
       tags_file: tags.md
 
 markdown_extensions:
+  # Admonitions
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  # Lists
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - attr_list
+  # HTML
+  - md_in_html
+  # Formatting
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - footnotes
+  # Abbreviations
   - abbr
   - attr_list
-  - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
 
 extra:
   generator: false
@@ -77,24 +94,6 @@ extra:
       link: https://github.com/nazzacode
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/nazzasharp
-
-markdown_extensions:
-  # Admonitions
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
-  # Lists
-  - def_list
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - attr_list
-  - md_in_html
-  # yolo
-  - pymdownx.critic
-  - pymdownx.caret
-  - pymdownx.keys
-  - pymdownx.mark
-  - pymdownx.tilde
 
 extra_css:
   - stylesheets/extra.css

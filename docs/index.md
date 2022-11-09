@@ -1,5 +1,5 @@
 ---
-hide:
+tags:
   - navigation
   - toc
 ---
@@ -17,6 +17,12 @@ TODO
 
 ## Recent Posts
 TODO
+
+## Top Tags
+TODO
+
+## Other
+- link to my thesis
 
 
 
