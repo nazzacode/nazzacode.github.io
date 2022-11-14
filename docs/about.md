@@ -4,34 +4,29 @@
 
 # About
 
-![Me](images/me2.jpg){ align=left width=250 }
+![Me](images/me2.jpg){ align=left width=275 }
 
-Hi :wave:, I'm Nathan (@nazzacode), an aspiring wizard from the UK and I write about fun things like the future of computing. 
+Hi, I'm Nathan (`@nazzacode`) Sharp, an **aspiring transhuman wizard** from the UK. 
+I also like to code, build things and write about fun topics like the future of computing. 
 
-## Interests 
 <!-- TODO: word cloud -->
-Brain-Computer Interfaces, 
-intelligence, 
-futurism, 
-the future of computing, 
-street food, 
-hip-hop, 
-design engineering, 
-aesthetics, 
-books, 
-information theory, 
-knowledge graphs and representations, 
-tools for thought, 
-meditation, 
-metaverse,
-and
-functional programming.
+I have a keen interest in Brain-Computer Interfaces, intelligence, personal knowledge management, memetics, futurism and street food.
+<!-- Brain-Computer Interfaces, intelligence, futurism, the future of computing, street food, hip-hop, design engineering, aesthetics, books, information theory, knowledge graphs and representations, tools for thought, meditation, metaverse, and functional programming. -->
 
-Follow me on Twitter, LinkedIn or Github.
-<!-- TODO links -->
+Right now I'm working to build XR computers, starting with input devices. 
+
+<!-- I would describe my worldview as: retrograde, techno-utopian and mildly revolutionary -->
+
+<!-- ## Interests  -->
 
 
-<!-- Right now I'm working on -->
+
+ Send me an email at [nathansharp03@gmail.com](mailto:nathansharp03@gmail.com) or follow me on [Twitter](https://twitter.com/nazzasharp), [LinkedIn](https://www.linkedin.com/in/nathan-sharp-99a817235) or [Github](https://github.com/nazzacode).
+
+
+## Why the name "Zadok the Priest"
+Listen, and all shall be revealed: [Zadok the Priest (youtube)](https://www.youtube.com/watch?v=MiXgOQ9_-RI).
+
 
 <!-- I like to write about -->
  <!-- street food  -->

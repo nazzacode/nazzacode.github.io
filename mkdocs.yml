@@ -9,8 +9,9 @@ nav:
   - "About": about.md
   - "Blog":
       "Blog": blog/index.md
-      "Does XR need a new keyboard?": blog/does_xr_need_a_new_keyboard.md
+      "The Achilles Heel of XR Computers": blog/the_achilles_heel_of_XR_computers.md
   - "Tags": tags.md
+  - "Memes": memes.md
 
 theme:
   name: material
@@ -24,8 +25,10 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
-      primary: blue grey
-      accent: light blue
+      primary: grey
+      accent: grey
+      # primary: blue grey
+      # accent: light blue
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: default
@@ -84,6 +87,8 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.tabbed:
       alternate_style: true
+  - toc:
+      permalink: 
 
 extra:
   generator: false

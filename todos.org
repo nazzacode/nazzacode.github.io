@@ -1,0 +1,36 @@
+:PROPERTIES:
+:CATEGORY: ${catagory}
+:END:
+:preamble:
+#+STARTUP: show2levels
+:end:
+#+TITLE: Blog Todos
+#+FILETAGS:
+
+* DOING (d) [0/1]
+** [-] Blog Post 1: The Achillies Heel of XR
+** [ ] Homepage Content [/]
+*** [X] Key Tags
+
+
+
+* NEXT (n) [0/4]
+* TODO (t)
+
+** [ ] Replace icon logo (tab bar)
+** [ ] Buy/update url
+** [ ] discussions
+** [ ] add wiki definitions (on hover)
+** [ ] improve color scheme (simplify!)
+** [ ] show top level menu in RHS
+
+* WAIT (w)
+** [ ] 'subscribe' email entry box
+- example on material website
+** [ ] Host my thesis pdf
+
+* DONE (D)
+:PROPERTIES:
+:VISIBILITY: folded
+:END:
+** [X] remove footer
