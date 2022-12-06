@@ -9,6 +9,7 @@ nav:
   - "About": about.md
   - "Blog":
       "Blog": blog/index.md
+      "Why XR is The Future of Work": blog/why_xr_is_the_future_of_work.md
       "The Achilles Heel of XR Computers": blog/the_achilles_heel_of_XR_computers.md
   - "Tags": tags.md
   - "Memes": memes.md
