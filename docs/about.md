@@ -19,6 +19,7 @@ Right now I'm working to build XR computers, starting with input devices.
 
 <!-- ## Interests  -->
 
+<!-- Information omnivore -->
 
 
  Send me an email at [nathansharp03@gmail.com](mailto:nathansharp03@gmail.com) or follow me on [Twitter](https://twitter.com/nazzasharp), [LinkedIn](https://www.linkedin.com/in/nathan-sharp-99a817235) or [Github](https://github.com/nazzacode).

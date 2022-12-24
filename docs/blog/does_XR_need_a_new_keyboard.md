@@ -3,15 +3,15 @@ description: "We investigate if XR needs a new, more portable keyboard"
 tags:
   - the future of work
   - XR 
-  - keyboards
   - input devices
+  - keyboards
 comments: true
-status: new
 ---
 
-# [DRAFT] Does XR need a new keyboard?
-<!-- # [DRAFT] The Achilles Heel of XR Computers -->
-<!-- ALT: XR needs a [native|different] keybaord -->
+Previous: [Why XR Headsets are The Future of Work™](../why_XR_computing_is_the_future_of_work)
+
+# Does XR Need a New Keyboard? [DRAFT] 
+<!-- ALT: Does XR computing needs a new keyboard? -->
 
 *The year is 2024. You just got a new VR/AR headset to replace your computer: unlimited screen real estate in a distraction free realm.
 Exciting times! Praise be to Zuck.*
@@ -22,7 +22,7 @@ Exciting times! Praise be to Zuck.*
 </figure>
 
 
-Empowered by the freedom of this new computing paradigm, you stand up to walk the room, ~~effortlessly able to take your computing environment with you~~.
+Empowered by the freedom of this new computing paradigm (see: [previous post](why_XR_computing_is_the_future_of_work)), you stand up to pace the room, ~~effortlessly able to take your computing environment with you~~.
 
 !!! failure "Problem"
 
@@ -34,24 +34,22 @@ How restraining.
 <!-- ## ? The promise of XR -->
 
 
-## Problem: keyboards restrict XR
+## Problem: Keyboards restrict XR
 
 <!-- MAYBE DIAGRAM: XR in nature -->
 
-XR unlocks an expanded landscape of computing: pace the room, roam out into nature, lie in bed or the comfiest of chairs-- all effortlessly bringing your infinite interface with you.
-But if you want a keyboard, you're tied to the desk.
+XR unlocks an expanded landscape of computing: pace around the room, roam out into nature, lie in bed or the comfiest of chairs; your infinite interface efforlessly with you.
+But if you want a keyboard-- you're tied to the desk.
 <!-- You can use VR/AR headset almost anywhere you go, -->
-
-
 
 <figure markdown>
   ![VR sitting desktop](../images/floor_plan_meme2.png){width=550 }
-  <figcaption> XR unlocks the map for computing. Holding it back: the stationary keyboard. </figcaption>
+  <figcaption> XR unlocks the map of computing landscape. Holding it back: the stationary keyboard. </figcaption>
 </figure>
 
 A keyboard is not always needed; there being many applications where a point-and-click interface will do.
 ==However, among productivity/professional computer use cases, the keyboard is ubiquitous.
-So, if XR grows to serve these use cases, then the keyboard becomes this sole bottleneck sequestering you from the extended computational world.==
+So, if XR grows to serve these use cases, the keyboard becomes this sole bottleneck withholding you from the extended computational world.==
 When a floating 8k monitor comes everywhere with you, it will be strange that your keyboard, a seemingly simpler device, can't.
 
 ??? note "A hope of XR: The return of locomotion"
@@ -65,89 +63,24 @@ When a floating 8k monitor comes everywhere with you, it will be strange that yo
     As long as the stationary keyboard persists, we remain tied to the desk and this freedom cannot be fully realised.
 
 
-## The harms of the computer desk
-Contrasting XR's promise of liberating movement, are the significant harms of spending too much time at the computer desk-- a condition we'll refer to as *homo deskalldayos* (short: *homo deskos*).
-This group includes the worlds 1+ billion professional workforce (roughly half of all adults in developed countries), and caries serious health risks.
+## Movement and the stationary desk
+<!-- ## The stationary desk and the human condition -->
+<!-- ## human nature and the stationary desk -->
 
-<!-- who are ingrained to spending many hours at a stationary computer desk, conditioned to the universality of the serious health risks. -->
-<!-- to risks to mobility, posture and chronic disease.  -->
-<!-- normalise the adverse health effects as expected working conditions. -->
+Movement is not some future luxury freedom, it is a cornerstone of health and cognition.
+The human body is designed to be in motion, and too much time sitting at a computer desk leads to predictable deterioration in posture, mobility, mortality and cognition; the shocking extent of which we cover in our [previous post in the series]: "As many as 60% of computer-using professionals are expected to suffer debilitating RSI at some point their career (CITE) ...  one study suggested that sitting for as little as 3 hours a day reduced average life expectancy by 2 years"
+In opposition, are the [extraordinary physical and cognitive benefits of movement and the outdoors].
 
-<figure markdown>
-  ![](../images/collage1.png){width=550}
-  <figcaption> Posture and mobility deterioration associated with the computer desk </figcaption>
-</figure>
+<!-- MAYBE FIGURE -->
 
-<!-- the human body is designed for movement,  -->
+<!-- posture, mobility, mortality and cognition -->
+That you assume sitting all day at a computer desk is satisfactory, is an exemplar specimen of status quo bias.
+==Given free realm to move ones arms, stand up, and wander around (whilst maintaining working capability), you will, --just as humans have done in the past-- because that's our nature.==
 
-Homo deskos suffers from characteristic posture and mobility deterioration.
-Prolonged sitting leads to poor posture, as it overburdens the static load on our musculoskeletal system, particularly straining the neck back and spine, causing pain.
-Futher, the distinct posture and unnatural movement encouraged by using a computer serverely worsens this situation.
-Resultingly, shoulder, neck, back, elbow, wrist and finger damage are all endemic amongst computer desk users, paticularly Repetitive Strain Injury (RSI), which occurs when tendon tissue slowly degenerates as a result of constant stress or strain.
-As many as 60% of computer using professionals are expected to suffer debilitating RSI at some point their career (CITE).
+Against the grain of human nature,
+the stationary desk is a direct product of the stationary computer and its towering civilisational function.
+As the opportunity presents itself for the computer to become wearable, you would be mistaken for thinking this inconsequential.
 
-Prolonged sitting also prevents effective circulation of blood through your body.
-This is a major factor increasing the chance of early death from heart disease, cancer and stroke for homo deskos, via markers such as increased blood pressure, increased body fat, increased cholesterol and Deep Vein Thrombisis (DVT) (blood clots). One study showed that sitting for as little as 3 hours a day reduced average life expectancy by 2 years (CITE) and the Uk found physical inactivity to now be the fourth largest cause of death and disability.
-
--->
-<!-- The seated position puts huge stress on your back muscles, neck, and spine.  -->
-
-
-
-
-<!-- sedentary -->
-<!-- Research strongly links homo deskos' sedentary lifestyle (sitting for long periods) to a slew of chronic health conditions. -->
-
-
-
-
-
-<!-- FACTS -->
-<!-- Physical inactivity is now the fourth largest cause of death and disability in the UK. -->
-<!-- And people with high levels of sedentary time have been found to have a 112% increased risk of diabetes, 147% increased risk of cardiovascular death, and 49% increased risk of all-cause mortality. -->
-
-<!-- diabetes 112% -->
-Mental 
-depression, axiety, dementia
-<!-- Sitting all day also has an impact on engery levels and creative thinking. -->
-
-
-??? note "A shallow solution"
-
-    As a coping mechanism, homo deskos worship an icon deity known as *homo deskos uprightos*, an idealised form of desk posture that is genreally unattainble for extended periods of time, and less repairing that sometimes claimed. 
-
-    <figure markdown>
-      ![](../images/homo_deskos.jpg){width=550}
-      <figcaption> From left: homo deskos uprightos, homo neckacheos, homo 
-      shouderstrainos, homo tightlowerbackos </figcaption>
-    </figure>
-
-
-Given a free life, no human would choose to sit upright all day, arms extended like a meerkat, waiting eagerly to develop cholesterol and RSI.
-Like the plight of coal miners, this hazard will become more widely recognised in hindsight. 
-Currently it serves an economic necessity: but soon we will push though the technological limitations of the stationary desk.
-
-# The benefits of movement ?
-Most of us don't need science to know that moving around, particularly outside is good for us, we are natrually drawn to it as a means of .....
-
-Even so, scientific findings can show supprising effects
-
-...
-
-1. Physical 
-
-2. Cognitive
-    - you natrually intuit this
-    - mental health
-    - creativity
-    - many famous people .. (thesis)
-
-<figure markdown>
-  ![](../images/kids_brain_walking.jpeg){width=550}
-  <figcaption> Cognitive effect of 20 minuites walking in children </figcaption>
-</figure>
-
-... study showed improved reading comprehension, spelling and arithmetic after walking. (increased attention and academic performace)
 
 ## Solution: XR needs a new keyboard
 <!-- It might seem obvious that this XR needs a new keyboard,   -->
@@ -161,6 +94,7 @@ So it might be good if there was a keyboard that
 <!-- dont like this v -->
 How does this problem get resolved?
 We see three possibilities, either: 
+
 
 1. (It doesn't) Keyboard usage restrains XR mobility indefinitely. 
 3. XR evolves into a keyboardless computing environment.

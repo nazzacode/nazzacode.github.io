@@ -19,12 +19,12 @@ tags:
 
 
 ## Top Posts
-1. [The Achilles Heel of XR computers](blog/the_achilles_heel_of_XR_computers)
+1. [Does XR Need a New Keyboard?](blog/does_XR_need_a_new_keyboard)
 2. ...
 
 
 ## Recent Posts
-- [2022/11/13] [The Achilles Heel of XR computers](blog/the_achilles_heel_of_XR_computers)
+- [2022/11/13] [Does XR Need a New Keyboard?](blog/does_XR_need_a_new_keyboard)
 
 <!-- ### Subscribe -->
 

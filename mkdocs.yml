@@ -8,9 +8,9 @@ nav:
   - "Home": index.md
   - "About": about.md
   - "Blog":
-      "Blog": blog/index.md
-      "Why XR is The Future of Work": blog/why_xr_is_the_future_of_work.md
-      "The Achilles Heel of XR Computers": blog/the_achilles_heel_of_XR_computers.md
+      - blog/index.md
+      - "Why XR computing is The Future of Work™": blog/why_xr_is_the_future_of_work.md
+      - "Does XR need a new keyboard?": blog/does_XR_need_a_new_keyboard.md
   - "Tags": tags.md
   - "Memes": memes.md
 
@@ -47,12 +47,13 @@ theme:
     # Computer Modern
     #
   features:
-    - navigation.instant
-    - navigation.tracking
-    - navigation.tabs
     - navigation.expand
-    - navigation.top # 'back to top' button
+    - navigation.indexes
+    - navigation.instant
     - navigation.sections
+    - navigation.tabs
+    - navigation.top # 'back to top' button
+    - navigation.tracking
     - toc.follow
 
 plugins:
@@ -61,35 +62,30 @@ plugins:
       tags_file: tags.md
 
 markdown_extensions:
-  # Admonitions
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
-  # Lists
-  - def_list
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - attr_list
-  # HTML
-  - md_in_html
-  # Formatting
-  - pymdownx.critic
-  - pymdownx.caret
-  - pymdownx.keys
-  - pymdownx.mark
-  - pymdownx.tilde
-  - footnotes
-  # Abbreviations
   - abbr
+  - admonition
   - attr_list
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.keys
+  - pymdownx.mark
   - pymdownx.snippets
+  - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
   - toc:
-      permalink: 
+      permalink: §
 
 extra:
   generator: false
