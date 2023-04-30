@@ -1,34 +1,34 @@
 :PROPERTIES:
 :CATEGORY: ${catagory}
 :END:
-:preamble:
+:PREAMBLE:
 #+STARTUP: show2levels
-:end:
+:END:
 #+TITLE: Blog Todos
 #+FILETAGS:
 
-* DOING (d) [0/1]
-** [-] Blog Post 1: The Achillies Heel of XR
-** [ ] Homepage Content [/]
+* DOING (d)
+** [-] [#A] Blog Post 1: The Achillies Heel of XR
+*** [ ] 1st draft: reduce EXISTING material down to somthing sensible
+*** [ ] Run through chatGPT(4)
+*** [ ] Remove 2nd post
+
+* NEXT (n)
+** [ ] Homepage Content
 *** [X] Key Tags
-
-
-
-* NEXT (n) [0/4]
 * TODO (t)
-
+** [ ] discussions
 ** [ ] Replace icon logo (tab bar)
 ** [ ] Buy/update url
-** [ ] discussions
 ** [ ] add wiki definitions (on hover)
 ** [ ] improve color scheme (simplify!)
 ** [ ] show top level menu in RHS
-
+* MAYBE (m)
+** [ ] switch provider?
 * WAIT (w)
-** [ ] 'subscribe' email entry box
+** [ ] 'subscribe' to email
 - example on material website
-** [ ] Host my thesis pdf
-
+** [ ] Host pdf of thesis
 * DONE (D)
 :PROPERTIES:
 :VISIBILITY: folded
