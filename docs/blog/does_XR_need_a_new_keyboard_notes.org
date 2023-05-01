@@ -1,0 +1,21 @@
+#+title: Does Xr Need A New Keyboard Notes
+* Additional content
+
+* Leanne's Edits
+** Whos the target audience
+- +investors+
+- [X] tech bros
+  - information clarity and density
+  - super simple read
+  - lots of piccys
+- other?
+
+** callout box: looks like error on page
+remove and "just say it"
+** confused by vr keyboard
+"does this actually exist do people actually use that?"
+
+** "more playful"
+Though there are many cases where a touchscreen interface will do, for professional or otherwise performant computer use cases; such as writing documents, emails, or using specialist applications, keyboard presence is completely ubiquitous.
+** less parenthesis needed
+** go with shorter sentances

@@ -60,11 +60,11 @@ plugins:
   - search
   - tags:
       tags_file: tags.md
+  - git-revision-date
 
 markdown_extensions:
   - abbr
   - admonition
-  - attr_list
   - attr_list
   - def_list
   - footnotes
@@ -77,7 +77,9 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.keys
   - pymdownx.mark
-  - pymdownx.snippets
+  - pymdownx.snippets:
+      auto_append:
+        - includes/glossary.md
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true

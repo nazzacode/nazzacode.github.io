@@ -1,0 +1,1 @@
+*[XR]: Extended Reality (XR): Catch all term for computing technologies provide an overlay/alternative to 3D-spatial and sensory reality. Inclusive of Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR).
