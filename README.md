@@ -1,2 +1,2 @@
 # Blog
-https://nazzacode.github.io/Blog/
+https://nazzacode.github.io
