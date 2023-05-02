@@ -14,7 +14,7 @@ comments: true
 *The year is 2027. You just got a new XR headset to replace your computer. Unlimited screen real estate in a distraction free realm. Or so you thought.* 
 
 <figure markdown>
-  ![XR desktop](../images/vr_desktop4_crop2.jpg)
+  ![XR desktop](../images/xr_concept0_crop.jpg)
   <figcaption>Your boundless XR workstation, until...</figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ Next time you see a concept render of someone orchestrating computational wonder
     </figure>
 
 <figure markdown>
-  ![VR sitting desktop](../images/floor_plan_meme2.png){width=600}
+  ![comparison of working range](../images/floor_plan_keyboard_vs_xr.png){width=600}
   <figcaption> A bottleneck in XR computers: The stationary keyboard. </figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ This need is obvious for anyone that *actually tries* to use an XR headset as a 
 Take [SimulaVR](https://simulavr.com), a company building the first VR linux workstation. They have predictably run into this problem in practice and improvised a remedy, the "Keyboard Apron".
 
 <figure markdown>
-  ![SimulaVR](../images/simula_apron.jpeg){width=700}
+  ![SimulaVR](../images/simula_apron_circled.png){width=700}
   <figcaption> SimulaVR in use. From left: sitting away from desk (keyboard not ideal), lying in bed (keyboard not practical), standing (keyboard not possible) hence apron innovation. <a href="https://twitter.com/georgewsinger/status/1507840684556009478?cxt=HHwWjIC-zaPH9uwpAAAA">[source]</a> </figcaption>
 </figure>
 
@@ -76,36 +76,45 @@ The Simula Apron is a significant mobility upgrade on the traditional keyboard, 
 The arms are stuck in a single non-optimal position, separate from standard VR controllers or gestures, not to mention the apron is sizeable and clunky.
 It's a great hacky compromise, but not yet a truly native XR keyboard. 
 
-Elsewhere, the internet revealed a zoo of past attempts at wearable keyboards, none of which quite seemed a viable keyboard replacement for XR.
+Elsewhere, the internet reveals a host of previous attempts at mobile keyboards with a wide variation of intriguing features, though none measure up as a ready keyboard replacement for XR. 
 There was the 1992-2015 [twiddler](https://twiddler.tekgear.com), a chorded one-hander with fiddly buttons.
-The 2005 [AlphaGrip](http://www.alphagrips.com), a game-controller shaped device with many extra buttons.
-The 2015—present [Tap Strap](https://www.tapwithus.com), that webs rings across the fingers which register taps.
-Finally, the 2019 [CTRL-Labs writstband](https://www.curtisbarbre.com/ctrl-kit) (acquired by Meta/Facebook), which aimed to reconstruct hand movements from sensors on the wrist.
+The 2005 [AlphaGrip](http://www.alphagrips.com), a game-controller-with-lots-of-extra-keys shaped device.
+The 2015—present [Tap Strap](https://www.tapwithus.com), a web of rings which register taps on a surface.
+Finally, the 2019 [CTRL-Labs writstband](https://www.curtisbarbre.com/ctrl-kit) (acquired by Meta/Facebook), which aimed to reconstruct hand movements from wrist sensors.
    
 <figure markdown>
   ![Wearables graveyard](../images/wearables_graveyard.png){width=600}
   <figcaption> Past wearable keyboards. Clockwise from top left: Twiddler3, AlphaGrip, CRTL-Labs wristband, Tap Strap. </figcaption>
 </figure>
 
-Having tested them all, common weaknesses are uncomfortable ergonomics and bad or nonexistent tactile feedback. 
-Another problem is the keymaps are non-standard so all the devices have a steep learning curve, weeks if not months of painstaking training. 
-Further, all result in a considerably lower WPM than a standard keyboard. That's a bitter pill for all and a dealbreaker for many, if not most.
+Having tested them all, a common problem is bad ergonomics and poor or nonexistent tactile feedback.
+None feel satisfying to use the way a mechanical keyboard or good game controller do.
+Instead they're varying degrees of uncomfortable, making the experience one of constant frustration.
+Another weakness is the keymaps, all are non-standard so the devices have a steep learning curve, weeks if not months of painstaking training. 
+Additionally, all result in a considerably lower WPM than a standard keyboard. That's a bitter pill for all and a dealbreaker for many, probably most.
 
-In contrast then, a viable XR keyboard should have comfortable ergonomics and tactile feedback, a low learning curve for those familiar with a standard QWERTY layout, and high achievable WPM.
+In contrast then, a viable XR keyboard should have comfortable ergonomics and tactile feedback, be fast to pick up for those coming from a standard keyboard, and have a fast typing speed.
+
+<!-- Note: the touchscreen keyboard found on mobile phones is no good here because...  -->
 
 <!-- a better solutions might now be available due to consumer 3D printing (better fit ergonomics) and the rise of XR (impetus) -->
 
 
 ## Conclusion
-We conclude that,
-(1) the standard keyboard is not suitable for XR due to its lack of mobility,
-(2) it is a convenient fiction that computers will be entirely, or even largely, operable without keyboards in the near future,
-(3) hence, XR computers are hamstrung by the lack of a viable keyboard, 
-and so finally, (4) yes, XR needs a new keyboard— wearable computers need wearable input.
+Bringing together our key findings:
 
-What exact form this will take is not yet clear, say for example, how much will such a device resemble the current keyboard?
-What I do know is that I want an XR computer and so I want this.
-If no one else is going to build this, I might just do it myself.
+1. The standard keyboard is not suitable for XR due to its lack of mobility.
+2. It is a convenient fiction that computers will be entirely, or even largely, operable without keyboards in the near future.
+
+We conclude that XR computing is hamstrung by the lack of a viable mobile keyboard. So yes, XR is going to need a new keyboard.
+What exact form this will take is not yet clear.
+For example, exactly how much will such a device resemble the current keyboard?
+What we have discovered is that wearable computers need wearable input.
+
+<!-- What we do know is that if you want a mobile computer, then your going to want mobile input.  -->
+
+<!-- I want an XR computer and so I want this. -->
+<!-- If no one else is going to build this, I might just do it myself. -->
 
 <!-- # NOTES -->
 
