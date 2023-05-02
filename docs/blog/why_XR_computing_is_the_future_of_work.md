@@ -80,4 +80,7 @@ Even so, scientific findings can show supprising effects
 
 ... study showed improved reading comprehension, spelling and arithmetic after walking. (increased attention and academic performace)
 
+<!-- NOTES -->
 
+<!-- ## THE LOCOMOTION LIFESTYLE -->
+<!--     Contrary to the fear that VR will take us away from the real world, a major hope of XR computing is that it will return us to the *locomotion lifestyle* of our hunter-gatherer heritance: increasing time spent outdoors and moving our body in natural ways. -->

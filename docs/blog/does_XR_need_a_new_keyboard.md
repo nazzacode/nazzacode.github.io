@@ -29,23 +29,21 @@ Empowered by this expansive new computing paradigm, you stand up, ~~effortlessly
 
 How restraining.
 
-<!-- ## ? The promise of XR -->
-<!-- Benefits of XR HERE? -->
+<!-- ## The promise of XR -->
 
-## Problem: The keyboard restricts XR
-<!-- ALT: ## The bottleneck for XR computers  -->
+## Problem: The keyboard is holding back XR
 
 <!-- a greater landscape of computing environments -->
 XR promises the freedom to take computing anywhere: pace the room, roam out into nature, lie in bed or the comfiest of chairs; your cinematic information interface comes effortlessly with you.
 
 <figure markdown>
-  ![XR collage](../images/xr_collage.png){width=600}
+  ![XR collage](../images/xr_collage_downscale.png){width=600}
   <figcaption> The promise of XR computing </figcaption>
 </figure>
 <!-- limitless computing -->
 
 XR "unlocks the map" for computer interfaces— but here's the catch, as soon as you need a keyboard, you're tied to the desk[^1].
-Next time you see a concept render of someone orchestrating an complex XR interface with their mere hands, ask yourself this: when *you* use a computer, would you last a day, let alone an hour, working like this? Or would you want a keyboard?
+Next time you see a concept render of someone orchestrating computational wonders with their mere hands, ask yourself this: when *you* use a computer, would you last a day, let alone an hour, working like this? Or would you want a keyboard?
 
 [^1]: 
     Alternatively you can suffer the following torment.
@@ -63,69 +61,12 @@ Next time you see a concept render of someone orchestrating an complex XR interf
 Though there are many cases where a touchscreen interface is perfect, for professional or otherwise performant computer use cases —writing documents, emails, or using specialist applications— keyboard presence is completely ubiquitous.
 As XR grows to serve these use cases, it shall be strange that a floating 8k monitor comes everywhere with you, when a keyboard, a seemingly simpler device, cannot.
 
-
-<!-- With XR already beginning to serve these use cases, the sole bottle neck restricting movement and tying you to the desk is the keyboard. -->
-
-<!-- As XR grows to serve these use cases, ... -->
-<!-- the only thing holding you back from fluidity in this extended computational world.  -->
-<!-- they keyboard will be  -->
-
-
-<!-- END THE ARTICLE HERE?! -->
-
-<!-- Worse, its likely that these are the use cases that will *need* XR. -->
-
- 
-<!-- <div style="text-align:center; margin-left:auto; margin-right:auto; max-width:80%"> -->
-<!--   <font size="+1"> -->
-<!--     <i>"This is bigger and centred text, lets put a nice little quote here for our lovely readers. But what about my magic bean and line overflow?"</i> -->
-<!--   </font> -->
-<!-- </div> -->
-
-<!-- Movement is not some future luxury, the human body is designed to be in constant motion and  -->
-
-<!-- <figure markdown> -->
-<!--   ![](../images/evolution_of_posture.jpg){width=600} -->
-<!--   <figcaption> Evolution of a human's working posture. Can this be reversed? </figcaption> -->
-<!-- </figure> -->
-
-<!-- The computer desk is linked with  -->
-
-<!-- and too much time sitting at a computer desk leads to predictable deterioration in posture, mobility, mortality and cognition; the shocking extent of which we cover in our [previous post in the series]:  -->
-
-<!-- "As many as 60% of computer-using professionals are expected to suffer debilitating RSI at some point their career (CITE) ...  one study suggested that sitting for as little as 3 hours a day reduced average life expectancy by 2 years" -->
-<!-- it is a cornerstone of health and cognition. -->
-
-<!-- In opposition, are the [extraordinary physical and cognitive benefits of movement and the outdoors]. -->
-
-<!-- ??? note "A hope of XR: A return to locomotion" -->
-
-<!--     <\!-- MAYBE FIGURE -\-> -->
-
-<!--     <\!-- posture, mobility, mortality and cognition -\-> -->
-<!--     That you assume sitting all day at a computer desk is satisfactory, is an exemplar specimen of status quo bias. -->
-<!--     Given free realm to move ones arms, stand up, and wander around (whilst maintaining working capability), you will, --just as humans have done in the past-- because that's our nature. -->
-
-<!--     Against the grain of human nature, -->
-<!--     the stationary desk is a direct product of the stationary computer and its towering civilisational function. -->
-<!--     As the opportunity presents itself for the computer to become wearable, you would be mistaken for thinking this inconsequential. -->
-
-<!--     Contrary to the fear that VR will take us away from the real world, a major hope of XR computing is that it will return us to the *locomotion lifestyle* of our hunter-gatherer heritance: increasing time spent outdoors and moving our body in natural ways. -->
-<!--     As long as the stationary keyboard persists, we remain tied to the desk and this freedom cannot be fully realised. -->
-
-
-<!-- ## Movement and the stationary desk -->
-<!-- ## The stationary desk and the human condition -->
-<!-- ## human nature and the stationary desk -->
-
 ## Solution: XR needs a new keyboard
 XR is calling out for a new keyboard, or keyboard-like device, that matches the working range of the headset it will accompany. 
 
 This need is obvious for anyone that *actually tries* to use an XR headset as a computer. 
 Take [SimulaVR](https://simulavr.com), a company building the first VR linux workstation. They have predictably run into this problem in practice and improvised a remedy, the "Keyboard Apron".
 
-<!-- TODO: simplify the captiona nd make the point keyboard -->
-<!-- "neither keybaord nor apron is ideal in these scenarios" -->
 <figure markdown>
   ![SimulaVR](../images/simula_apron.jpeg){width=700}
   <figcaption> SimulaVR in use. From left: sitting away from desk (keyboard not ideal), lying in bed (keyboard not practical), standing (keyboard not possible) hence apron innovation. <a href="https://twitter.com/georgewsinger/status/1507840684556009478?cxt=HHwWjIC-zaPH9uwpAAAA">[source]</a> </figcaption>
@@ -155,7 +96,7 @@ In contrast then, a viable XR keyboard should have comfortable ergonomics and ta
 <!-- a better solutions might now be available due to consumer 3D printing (better fit ergonomics) and the rise of XR (impetus) -->
 
 
-## Outcome
+## Conclusion
 We conclude that,
 (1) the standard keyboard is not suitable for XR due to its lack of mobility,
 (2) it is a convenient fiction that computers will be entirely, or even largely, operable without keyboards in the near future,
@@ -167,6 +108,13 @@ What I do know is that I want an XR computer and so I want this.
 If no one else is going to build this, I might just do it myself.
 
 <!-- # NOTES -->
+
+<!-- ## BIG QUOTE  -->
+<!-- <div style="text-align:center; margin-left:auto; margin-right:auto; max-width:80%"> -->
+<!--   <font size="+1"> -->
+<!--     <i>"This is bigger and centred text, lets put a nice little quote here for our lovely readers. But what about my magic bean and line overflow?"</i> -->
+<!--   </font> -->
+<!-- </div> -->
 
 <!-- ## Why is nobody building this
 - For the size of investment going into VR, I find it amazing how little attention there is on this issue
