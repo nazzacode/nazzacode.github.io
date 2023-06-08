@@ -55,7 +55,7 @@ Next time you see a concept render of someone orchestrating computational wonder
 
 <figure markdown>
   ![comparison of working range](../images/floor_plan_keyboard_vs_xr.png){width=600}
-  <figcaption> A bottleneck in XR computers: The stationary keyboard. </figcaption>
+  <figcaption> A bottleneck in XR computers: The stationary keyboard </figcaption>
 </figure>
 
 Though there are many cases where a touchscreen interface is perfect, for professional or otherwise performant computer use cases —writing documents, emails, or using specialist applications— keyboard presence is completely ubiquitous.
